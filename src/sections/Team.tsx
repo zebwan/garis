@@ -10,28 +10,28 @@ const barbers = [
     role: 'Senior Barber',
     speciality: 'Fades, Hair Tattoos',
     description: '10 years of experience. Amir is the go-to guy for precision fades and creative hair tattoos. His steady hands and eye for detail make every cut a masterpiece.',
-    image: '/images/barber-team-1.jpg',
+    image: './images/barber-team-1.jpg',
   },
   {
     name: 'Jason Tan',
     role: 'Classic Cut Specialist',
     speciality: 'Scissor Cuts, Styling',
     description: 'Jason specialises in classic scissor cuts and modern styling. Whether you want a textured crop or a slick side-part, he will nail the look.',
-    image: '/images/barber-team-2.jpg',
+    image: './images/barber-team-2.jpg',
   },
   {
     name: 'Rajesh Kumar',
     role: 'Beard & Shave Expert',
     speciality: 'Beard Shaping, Hot Towel Shaves',
     description: 'Raj is our beard guru. From full beard sculpting to clean straight razor shaves, he makes facial hair look effortless.',
-    image: '/images/barber-team-3.jpg',
+    image: './images/barber-team-3.jpg',
   },
   {
     name: 'Firdaus Lee',
     role: 'All-Rounder',
     speciality: 'Kids Cuts, Groom Packages',
     description: 'Firdaus is great with kids and adults alike. Patient, friendly, and skilled — he is the perfect choice for family visits.',
-    image: '/images/barber-team-4.jpg',
+    image: './images/barber-team-4.jpg',
   },
 ];
 

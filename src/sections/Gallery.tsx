@@ -5,16 +5,16 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
 
 const galleryImages = [
-  { src: '/images/barbershop-hero.jpg', alt: 'Shop interior', span: 'col-span-2 row-span-2' },
-  { src: '/images/fade-detail.jpg', alt: 'Precision fade', span: 'col-span-1 row-span-1' },
-  { src: '/images/shave-service.jpg', alt: 'Hot towel shave', span: 'col-span-1 row-span-1' },
-  { src: '/images/barber-tools.jpg', alt: 'Barber tools', span: 'col-span-1 row-span-2' },
-  { src: '/images/beard-sculpting.jpg', alt: 'Beard sculpting', span: 'col-span-1 row-span-1' },
-  { src: '/images/waiting-area.jpg', alt: 'Waiting area', span: 'col-span-2 row-span-1' },
-  { src: '/images/shoplot-exterior.jpg', alt: 'Shop exterior', span: 'col-span-2 row-span-1' },
-  { src: '/images/hot-towel.jpg', alt: 'Hot towel treatment', span: 'col-span-1 row-span-1' },
-  { src: '/images/classic-fade.jpg', alt: 'Classic fade', span: 'col-span-1 row-span-1' },
-  { src: '/images/hair-styling.jpg', alt: 'Hair styling', span: 'col-span-1 row-span-1' },
+  { src: './images/barbershop-hero.jpg', alt: 'Shop interior', span: 'col-span-2 row-span-2' },
+  { src: './images/fade-detail.jpg', alt: 'Precision fade', span: 'col-span-1 row-span-1' },
+  { src: './images/shave-service.jpg', alt: 'Hot towel shave', span: 'col-span-1 row-span-1' },
+  { src: './images/barber-tools.jpg', alt: 'Barber tools', span: 'col-span-1 row-span-2' },
+  { src: './images/beard-sculpting.jpg', alt: 'Beard sculpting', span: 'col-span-1 row-span-1' },
+  { src: './images/waiting-area.jpg', alt: 'Waiting area', span: 'col-span-2 row-span-1' },
+  { src: './images/shoplot-exterior.jpg', alt: 'Shop exterior', span: 'col-span-2 row-span-1' },
+  { src: './images/hot-towel.jpg', alt: 'Hot towel treatment', span: 'col-span-1 row-span-1' },
+  { src: './images/classic-fade.jpg', alt: 'Classic fade', span: 'col-span-1 row-span-1' },
+  { src: './images/hair-styling.jpg', alt: 'Hair styling', span: 'col-span-1 row-span-1' },
 ];
 
 export default function Gallery() {

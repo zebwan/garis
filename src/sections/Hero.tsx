@@ -61,7 +61,7 @@ export default function Hero() {
         style={{ opacity: 0 }}
       >
         <img
-          src="/images/barbershop-hero.jpg"
+          src="./images/barbershop-hero.jpg"
           alt="GARIS Barbershop Interior"
           className="w-full h-full object-cover"
         />

@@ -122,7 +122,7 @@ export default function Philosophy() {
           <div ref={imageRef} className="relative" style={{ opacity: 0 }}>
             <div className="relative aspect-[4/5] overflow-hidden">
               <img
-                src="/images/barber-at-work.jpg"
+                src="./images/barber-at-work.jpg"
                 alt="Barber at work"
                 className="w-full h-full object-cover"
               />
